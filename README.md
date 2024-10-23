@@ -16,8 +16,8 @@ https://youtu.be/UgcIviG0r3U
 
 <br>
 
-![alt text](https://media.discordapp.net/attachments/1067439304965640263/1277973288878080133/1.PNG?ex=66cf1cdf&is=66cdcb5f&hm=4ddaf65453106796b9e51b428c4a1183c30808aaa619190b12f71ed0a26d3e53&=&format=webp&quality=lossless&width=1197&height=676)
+![alt text](https://github.com/hilalguleryuz/powerbi_data_analysis_hotelbooking_project/blob/main/1.PNG)
 
-![alt text](https://media.discordapp.net/attachments/1067439304965640263/1277973287711805460/2.PNG?ex=66cf1cdf&is=66cdcb5f&hm=764e6af3a6eb953a868bd23b7870a5b7422dae6cc95fa800d1b23269a353f83d&=&format=webp&quality=lossless&width=1198&height=676)
+![alt text](https://github.com/hilalguleryuz/powerbi_data_analysis_hotelbooking_project/blob/main/2.PNG)
 
-![alt text](https://media.discordapp.net/attachments/1067439304965640263/1277973288206995528/3.PNG?ex=66cf1cdf&is=66cdcb5f&hm=f7ae0c8c6e9d85cae4701a2d15fe3e477727198d051598133a1e0d87d218b7f8&=&format=webp&quality=lossless&width=1195&height=676)
+![alt text](https://github.com/hilalguleryuz/powerbi_data_analysis_hotelbooking_project/blob/main/3.PNG)
