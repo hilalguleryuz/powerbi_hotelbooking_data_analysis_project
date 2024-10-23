@@ -1,4 +1,4 @@
-## 🚀 Power BI Data Analysis Project: Strategic Insights for a Hotel Chain 📊
+## 🚀 Power BI Data Analysis Project: Strategic Insights for a Hotel Chain
 
 At the end of the "Power BI Data Analysis" module, I created a comprehensive dashboard using data from a hotel chain.
 
