@@ -17,8 +17,8 @@ https://youtu.be/UgcIviG0r3U
 The screenshots of the project are provided below:
 <br>
 
-![alt text](https://github.com/hilalguleryuz/powerbi_data_analysis_hotelbooking_project/blob/main/Screenshots/SS_1.png)
+![alt text](https://github.com/hilalguleryuz/powerbi_hotelbooking_data_analysis_project/blob/main/Project_screenshots/SS_1.png)
 
-![alt text](https://github.com/hilalguleryuz/powerbi_data_analysis_hotelbooking_project/blob/main/Screenshots/SS_2.png)
+![alt text](https://github.com/hilalguleryuz/powerbi_hotelbooking_data_analysis_project/blob/main/Project_screenshots/SS_2.png)
 
-![alt text](https://github.com/hilalguleryuz/powerbi_data_analysis_hotelbooking_project/blob/main/Screenshots/SS_3.png)
+![alt text](https://github.com/hilalguleryuz/powerbi_hotelbooking_data_analysis_project/blob/main/Project_screenshots/SS_3.png)
