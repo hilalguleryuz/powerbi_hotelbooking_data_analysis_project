@@ -11,9 +11,6 @@ At the end of the "Power BI Data Analysis" module, I created a comprehensive das
 
 🎯 The data and insights gained from this project can help the hotel chain make strategic decisions on which market segments and customer types to focus on to increase profitability. This project provided an opportunity to apply my knowledge of data analytics and my proficiency in Power BI. 
 
-📻 You can access the project presentation, in which I explain the insights derived from my analyses, through the link: 
-https://youtu.be/UgcIviG0r3U
-
 The screenshots of the project are provided below:
 <br>
 
